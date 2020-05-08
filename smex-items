@@ -1,0 +1,40 @@
+
+;; ----- smex-history -----
+(
+ ac-ispell-ac-setup
+ ac-ispell-setup
+ kill-some-buffers
+ list-packages
+ latex-preview-pane-mode
+ customize-variable
+ query-replace
+)
+
+;; ----- smex-data -----
+(
+ (eval-buffer . 12)
+ (customize-group . 16)
+ (package-autoremove . 3)
+ (list-packages . 15)
+ (TeX-PDF-mode . 1)
+ (recentf-mode . 2)
+ (latex-preview-pane-mode . 22)
+ (package-install . 13)
+ (customize-themes . 5)
+ (preview-region . 2)
+ (insert-char . 1)
+ (make-directory . 1)
+ (set-mark-command . 1)
+ (global-hungry-delete-mode . 2)
+ (sublimity-mode . 2)
+ (run-octave . 2)
+ (matlab-shell . 2)
+ (matlab-return . 1)
+ (matlab-run-with-idle-timer . 1)
+ (latex-mode . 2)
+ (query-replace . 1)
+ (customize-variable . 3)
+ (kill-some-buffers . 1)
+ (ac-ispell-setup . 1)
+ (ac-ispell-ac-setup . 1)
+)
